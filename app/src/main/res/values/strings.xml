@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="here_is_example_with_the_word">here is example with the word</string>
+    <string name="drawer_close">close drawer</string>
+    <string name="drawer_open">open drawer</string>
+    <string name="search_note">Search Here</string>
+    <string name="share">Share</string>
+    <string name="home">Home</string>
+    <string name="privacy_policy">privacy policy</string>
+    <string name="Rate_us">Rate Us</string>
+    <string name="word_noun">Word(Noun)</string>
+    <string name="meaningss">অর্থ</string>
+</resources>
